@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Editable PPT"
+  short_description: "Create editable slide decks from AI image workflows"
+  default_prompt: "Use $ai-editable-ppt to turn my report and slide brief into a high-quality editable PPT workflow."
